@@ -151,7 +151,7 @@ first div in the grid  and place it in the grid. */
  
  
   .about, .method, .clients, .contact{
-    grid-column: 2/2;
+    grid-column: 2/3;
   }
 
   .about, .about-image {
